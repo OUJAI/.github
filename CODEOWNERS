@@ -1,0 +1,6 @@
+# OUJAI Organization CODEOWNERS Template
+# Replace <GITHUB_USERNAME_*> placeholders with verified student GitHub handles once added to the organization.
+
+*                               @<GITHUB_USERNAME_IT>
+/profile/                       @<GITHUB_USERNAME_IT>
+/ISSUE_TEMPLATE/                @<GITHUB_USERNAME_IT>

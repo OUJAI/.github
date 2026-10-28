@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: OUJAI Architecture & API Contracts
+    url: https://github.com/oujai/oujai-docs
+    about: Check the central architecture, API specs, and data dictionary before opening cross-repo issues.
